@@ -1,0 +1,100 @@
+Philippines,Manoc-Manoc
+Russia,Shimorskoye
+Philippines,Araal
+China,Dingjiaqiao
+Argentina,Mainque
+Nicaragua,El Rosario
+Venezuela,Valle de La Pascua
+Latvia,Mārupe
+Indonesia,Jorowaru Daya
+Mauritius,Cap Malheureux
+Philippines,Pinagsibaan
+Sweden,Kristinehamn
+China,Xinfang
+Democratic,Lubao
+Costa Rica,Esparza
+Indonesia,Ankola
+Albania,Barmash
+Japan,Ueno
+Japan,Ōno-hara
+Israel,Deir Ḥannā
+Russia,Pokrovskoye
+Poland,Garwolin
+Afghanistan,Pas Pul
+China,Xidoupu
+Honduras,Azacualpa
+Peru,Palca
+Malawi,Salima
+Philippines,Curuan
+Ukraine,Klembivka
+Philippines,Sibulan
+Chile,Futaleufú
+China,Huangzhawan
+Portugal,Fornos de Algodres
+Brazil,Barbacena
+Philippines,Salvacion
+Philippines,Agusan
+Indonesia,Kahuripan
+Iran,Lordegān
+Peru,Tayabamba
+Jamaica,Wakefield
+Philippines,Tapas
+China,Langxi
+China,Gongli
+Chile,La Laja
+Pakistan,Rasūlnagar
+Suriname,Brokopondo
+China,Yangzhen
+Indonesia,Oefau
+China,Longguang
+Dominican Republic,Pedro García
+Russia,Reshetnikovo
+Afghanistan,Rustāq
+Thailand,Sena
+Indonesia,Bentar Girang
+Russia,Krasnyy Oktyabr’
+China,Maochen
+Russia,Buy
+Indonesia,Pojok
+Germany,Herne
+South Africa,Phalaborwa
+Greece,Kálamos
+China,Miyang
+Indonesia,Dukuhturi
+Russia,Vyksa
+Indonesia,Saseel
+China,Qibu
+Indonesia,Pasarnangka
+Namibia,Otjimbingwe
+South Africa,Belfast
+China,Changning
+Montenegro,Herceg-Novi
+Honduras,Zopilotepe
+Honduras,Guaimaca
+Indonesia,Sungayang
+Russia,Uchkulan
+Indonesia,Waru
+Russia,Shcherbinka
+Indonesia,Lokea
+Afghanistan,Fayzabad
+Mauritius,Petit Raffray
+Sweden,Piteå
+Indonesia,Rabig
+Canada,Bowen Island
+Peru,Huacrapuquio
+China,Zhayang
+Canada,Labrador City
+Canada,Concord
+Czech Republic,Jindřichov
+Brazil,Nova Cruz
+Russia,Dvinskoy
+Philippines,Calomboyan
+Sweden,Kilafors
+Russia,Makar’yev
+Colombia,Abejorral
+Cuba,Jovellanos
+Indonesia,Tanakbeak Daye
+Tanzania,Makuyuni
+Azerbaijan,Mardakyany
+New Zealand,Kawakawa
+Chile,Coronel
